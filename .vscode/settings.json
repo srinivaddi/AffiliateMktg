@@ -1,0 +1,18 @@
+{
+    "python.analysis.extraPaths": [
+        "./creatorsapi-python-sdk"
+    ],
+    "python.testing.pytestArgs": [
+        "affiliate_mktg"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}

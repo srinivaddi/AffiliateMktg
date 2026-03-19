@@ -1,0 +1,19 @@
+  {
+      "version": "0.2.0",
+      "configurations": [
+          {
+              "name": "Python: Streamlit",
+              "type": "debugpy",
+              "request": "launch",
+              "module": "streamlit",
+              "args": [
+                  "run",
+                  "${file}",
+                  // Optional: Add a custom port if needed
+                //   "--server.port", "8501" 
+              ],
+              "console": "integratedTerminal", // or "externalTerminal"
+              "justMyCode": true 
+          }
+      ]
+  }

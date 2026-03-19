@@ -1,0 +1,217 @@
+{
+    "search_result": {
+        "total_result_count": 1000,
+        "search_url": "https://www.amazon.com/s?k=Laptop&i=electronics&rh=p_n_availability%3A2661600011&tag=shopmidas09-20&linkCode=osi",
+        "items": [
+            {
+                "asin": "B0DZD9S5GC",
+                "browse_node_info": null,
+                "detail_page_url": "https://www.amazon.com/dp/B0DZD9S5GC?tag=shopmidas09-20&linkCode=osi&th=1&psc=1",
+                "images": {
+                    "primary": {
+                        "small": null,
+                        "medium": null,
+                        "large": {
+                            "url": "https://m.media-amazon.com/images/I/41ZbpAVHqdL._SL500_.jpg",
+                            "height": 500,
+                            "width": 500
+                        }
+                    },
+                    "variants": null
+                },
+                "item_info": {
+                    "by_line_info": null,
+                    "classifications": null,
+                    "content_info": null,
+                    "content_rating": null,
+                    "external_ids": null,
+                    "features": null,
+                    "manufacture_info": null,
+                    "product_info": null,
+                    "technical_info": null,
+                    "title": {
+                        "display_value": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID; Midnight",
+                        "label": "Title",
+                        "locale": "en_US"
+                    },
+                    "trade_in_info": null
+                },
+                "offers": {
+                    "listings": [
+                        {
+                            "availability": null,
+                            "condition": null,
+                            "delivery_info": null,
+                            "id": "UdD2%2F5lKgmL0oonfN1qb%2F22%2Fhx%2B9SIPSPIRehwQPUF4lIIjIJ%2FKFBJHhH3aIS4aF0UXAeaMg9krLzFXUo9F6ebNUPtys%2BFAgYMtpQ2TLwGVSROjbT6EOdPL38IVycYI7Im7egJw3m%2BqPHNeLt6FMdw%3D%3D",
+                            "is_buy_box_winner": null,
+                            "loyalty_points": null,
+                            "merchant_info": null,
+                            "price": {
+                                "amount": 899.0,
+                                "currency": "USD",
+                                "display_amount": "$899.00",
+                                "price_per_unit": null,
+                                "savings": {
+                                    "amount": 100.0,
+                                    "currency": "USD",
+                                    "display_amount": "$100.00 (10%)",
+                                    "percentage": 10,
+                                    "price_per_unit": null
+                                }
+                            },
+                            "program_eligibility": null,
+                            "promotions": null,
+                            "saving_basis": null,
+                            "violates_map": false
+                        }
+                    ],
+                    "summaries": null
+                },
+                "parent_asin": null,
+                "rental_offers": null,
+                "score": null,
+                "variation_attributes": null
+            },
+            {
+                "asin": "B0FLKNZJ1H",
+                "browse_node_info": null,
+                "detail_page_url": "https://www.amazon.com/dp/B0FLKNZJ1H?tag=shopmidas09-20&linkCode=osi&th=1&psc=1",
+                "images": {
+                    "primary": {
+                        "small": null,
+                        "medium": null,
+                        "large": {
+                            "url": "https://m.media-amazon.com/images/I/411XHQ+fmSL._SL500_.jpg",
+                            "height": 500,
+                            "width": 500
+                        }
+                    },
+                    "variants": null
+                },
+                "item_info": {
+                    "by_line_info": null,
+                    "classifications": null,
+                    "content_info": null,
+                    "content_rating": null,
+                    "external_ids": null,
+                    "features": null,
+                    "manufacture_info": null,
+                    "product_info": null,
+                    "technical_info": null,
+                    "title": {
+                        "display_value": "HP Student and Home Laptop with Free Microsoft 365, 16GB RAM, 1.1TB Storage (64GB SSD with 64GB External and 1TB Cloud Storage), Fast Intel Core, Win 11 w/o Earbuds \u2013 Perfect for Work & Play",
+                        "label": "Title",
+                        "locale": "en_US"
+                    },
+                    "trade_in_info": null
+                },
+                "offers": {
+                    "listings": [
+                        {
+                            "availability": null,
+                            "condition": null,
+                            "delivery_info": null,
+                            "id": "UdD2%2F5lKgmL0oonfN1qb%2F8mS9D%2FtZrywFBgwiX%2BLLCKjuX6d1Zqqx77Vx74nb7e7fOIHy5bThb93Pb%2F7C4ZwvhBiQPw2KeBze3SHlJJHAslf9lgq8c%2FtyYuEgib%2FXhDYx2tZMImjC%2FDrgNYHs000FtTapW2UHu9r9dGJtqqSt4r%2BOvueDsuTdlCjXi4IU3G7",
+                            "is_buy_box_winner": null,
+                            "loyalty_points": null,
+                            "merchant_info": null,
+                            "price": {
+                                "amount": 279.99,
+                                "currency": "USD",
+                                "display_amount": "$279.99",
+                                "price_per_unit": null,
+                                "savings": {
+                                    "amount": 119.9,
+                                    "currency": "USD",
+                                    "display_amount": "$119.90 (30%)",
+                                    "percentage": 30,
+                                    "price_per_unit": null
+                                }
+                            },
+                            "program_eligibility": null,
+                            "promotions": null,
+                            "saving_basis": null,
+                            "violates_map": false
+                        }
+                    ],
+                    "summaries": null
+                },
+                "parent_asin": null,
+                "rental_offers": null,
+                "score": null,
+                "variation_attributes": null
+            },
+            {
+                "asin": "B0FMKBZLGM",
+                "browse_node_info": null,
+                "detail_page_url": "https://www.amazon.com/dp/B0FMKBZLGM?tag=shopmidas09-20&linkCode=osi&th=1&psc=1",
+                "images": {
+                    "primary": {
+                        "small": null,
+                        "medium": null,
+                        "large": {
+                            "url": "https://m.media-amazon.com/images/I/4179yigQ8cL._SL500_.jpg",
+                            "height": 500,
+                            "width": 500
+                        }
+                    },
+                    "variants": null
+                },
+                "item_info": {
+                    "by_line_info": null,
+                    "classifications": null,
+                    "content_info": null,
+                    "content_rating": null,
+                    "external_ids": null,
+                    "features": null,
+                    "manufacture_info": null,
+                    "product_info": null,
+                    "technical_info": null,
+                    "title": {
+                        "display_value": "Lenovo 15.6\" FHD Laptop Computers for Home Student Study, Intel Processor, 32GB DDR4 RAM, 1TB PCIe SSD, WiFi 6, Bluetooth 5.2, Type-C, HDMI, Webcam, Cloud Grey, Windows 11 Pro",
+                        "label": "Title",
+                        "locale": "en_US"
+                    },
+                    "trade_in_info": null
+                },
+                "offers": {
+                    "listings": [
+                        {
+                            "availability": null,
+                            "condition": null,
+                            "delivery_info": null,
+                            "id": "UdD2%2F5lKgmL0oonfN1qb%2F1NLPsJC7DhqwyTjrQ%2BRJKk5%2F0XD7E2NGxp3zKSTy0KzBHG8BG6JUI4v3Obff6HlQzit25Y0%2F3mYZwEg09msY8isW3gfBih2Ez5m%2FL%2FMxYJMihwT1%2FR3P9t94zkG0QckB7hERd%2F4F3YeZJZFMMzve%2F8etXhQ3Tc7EOcEysPljVbp",
+                            "is_buy_box_winner": null,
+                            "loyalty_points": null,
+                            "merchant_info": null,
+                            "price": {
+                                "amount": 449.99,
+                                "currency": "USD",
+                                "display_amount": "$449.99",
+                                "price_per_unit": null,
+                                "savings": {
+                                    "amount": 2549.01,
+                                    "currency": "USD",
+                                    "display_amount": "$2,549.01 (85%)",
+                                    "percentage": 85,
+                                    "price_per_unit": null
+                                }
+                            },
+                            "program_eligibility": null,
+                            "promotions": null,
+                            "saving_basis": null,
+                            "violates_map": false
+                        }
+                    ],
+                    "summaries": null
+                },
+                "parent_asin": null,
+                "rental_offers": null,
+                "score": null,
+                "variation_attributes": null
+            }
+        ],
+        "search_refinements": null
+    },
+    "errors": null
+}

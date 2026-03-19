@@ -1,0 +1,257 @@
+[
+    {
+        "SearchIndex": "All",
+        "DisplayName": "All Departments",
+        "Keywords": []
+    },
+    {
+        "SearchIndex": "AmazonVideo",
+        "DisplayName": "Prime Video",
+        "Keywords": ["Movies", "TV Shows", "Documentaries"]
+    },
+    {
+        "SearchIndex": "Apparel",
+        "DisplayName": "Clothing & Accessories",
+        "Keywords": ["Clothing", "Shoes", "Jewelry", "Watches" ]
+    },
+    {
+        "SearchIndex": "Appliances",
+        "DisplayName": "Appliances",
+        "Keywords": ["referigerators", "washers", "dryers", "ovens", "microwaves", "dishwashers", "air conditioners", "vacuum cleaners"]
+    },
+    {
+        "SearchIndex": "ArtsAndCrafts",
+        "DisplayName": "Arts, Crafts & Sewing",
+        "Keywords": ["painting", "drawing", "sewing", "knitting", "scrapbooking", "beading", "crafting"]
+    },
+    {
+        "SearchIndex": "Automotive",
+        "DisplayName": "Automotive Parts & Accessories",
+        "Keywords": ["batteries", "tires", "car care", "motorcycle parts", "tools & equipment", "interior accessories", "exterior accessories"]
+    },
+    {
+        "SearchIndex": "Baby",
+        "DisplayName": "Baby",
+        "Keywords": ["diapers", "baby food", "toys", "strollers", "car seats", "baby clothing"]
+    },
+    {
+        "SearchIndex": "Beauty",
+        "DisplayName": "Beauty & Personal Care",
+        "Keywords": ["curlers", "hair dryers", "shampoos", "conditioners", "skincare", "makeup", "fragrances"]
+    },
+    {
+        "SearchIndex": "Books",
+        "DisplayName": "Books",
+        "Keywords": ["fiction", "non-fiction", "children's books", "textbooks", "eBooks", "audiobooks"]
+    },
+    {
+        "SearchIndex": "Classical",
+        "DisplayName": "Classical",
+        "Keywords": ["music", "opera", "symphonies", "chamber music", "choral music"]
+    },
+    {
+        "SearchIndex": "Collectibles",
+        "DisplayName": "Collectibles & Fine Art",
+        "Keywords": ["Accessories & Supplies", "Collectible Coins", "Collectible Stamps", "Fine Art", "Sports Collectibles", "Trading Cards", "Other Collectibles"]
+    },
+    {
+        "SearchIndex": "Computers",
+        "DisplayName": "Computers",
+        "Keywords": ["Desktops", "Laptops", "Monitors", "Computer Accessories", "Computer Components", "Data Storage", "Networking Products", "Printers", "Scanners", "Software", "Tablet Accessories"]
+    },
+    {
+        "SearchIndex": "DigitalMusic",
+        "DisplayName": "Digital Music",
+        "Keywords": ["Pop", "Rock", "Hip-Hop/Rap", "Country", "Jazz", "Classical", "Electronic", "R&B/Soul", "Reggae", "Blues", "Folk", "Soundtracks"]
+    },
+    {
+        "SearchIndex": "DigitalEducationalResources",
+        "DisplayName": "Digital Educational Resources",
+        "Keywords": ["eBooks", "Audiobooks", "Educational Videos", "Learning Apps", "Study Guides"]
+    },
+    {
+        "SearchIndex": "Electronics",
+        "DisplayName": "Electronics",
+        "Keywords": ["KVM Switches", "Tablets", "Wearable Technology", "Bluetooth & Wireless Speakers", "Home Audio & Theater", "Headphones", "Car Electronics", "Camera & Photo", "Video Projectors", "Security & Surveillance", "Television & Video", "Accessories & Supplies", "GPS & Navigation", "eBook Readers & Accessories", "Office Electronics"]
+    },
+    {
+        "SearchIndex": "EverythingElse",
+        "DisplayName": "Everything Else",
+        "Keywords": ["Networking Products", "Printers", "Scanners", "Software", "Tablet Accessories"]
+    },
+    {
+        "SearchIndex": "Fashion",
+        "DisplayName": "Clothing, Shoes & Jewelry",
+        "Keywords": ["prada", "gucci", "nike", "adidas", "levis", "under armour", "north face", "columbia", "vans", "new balance"]
+    },
+    {
+        "SearchIndex": "FashionBaby",
+        "DisplayName": "Clothing, Shoes & Jewelry Baby",
+        "Keywords": ["baby clothes", "baby shoes", "baby accessories"]
+    },
+    {
+        "SearchIndex": "FashionBoys",
+        "DisplayName": "Clothing, Shoes & Jewelry Boys",
+        "Keywords": ["Boys clothes", "Boys shoes", "Boys accessories"]
+    },
+    {
+        "SearchIndex": "FashionGirls",
+        "DisplayName": "Clothing, Shoes & Jewelry Girls",
+        "Keywords": ["Girls clothes", "Girls shoes", "Girls accessories"]
+    },
+    {
+        "SearchIndex": "FashionMen",
+        "DisplayName": "Clothing, Shoes & Jewelry Men",
+        "Keywords": ["Mens clothes", "Mens shoes", "Mens accessories"]
+    },
+    {
+        "SearchIndex": "FashionWomen",
+        "DisplayName": "Clothing, Shoes & Jewelry Women",
+        "Keywords": ["Womens fashion","Womens clothing","Womens dresses","Womens tops","Womens shoes","Womens accessories","Womens handbags","Womens jewelry","Womens watches","Womens sunglasses","Womens swimwear","Womens activewear","Womens lingerie","Womens coats","Womens jackets"]
+    },
+    {
+        "SearchIndex": "GardenAndOutdoor",
+        "DisplayName": "Garden & Outdoor",
+        "Keywords": ["Outdoor furniture","Garden tools","Patio sets","Lawn care","Grills and outdoor cooking","Outdoor lighting","Garden decor","Planters and pots","Outdoor storage","Landscaping supplies","Garden hose","Outdoor umbrellas","Deck accessories","Backyard essentials"]
+    },
+    {
+        "SearchIndex": "GiftCards",
+        "DisplayName": "Gift Cards",
+        "Keywords": ["vanilla gift card",":digital gift card"]
+    },
+    {
+        "SearchIndex": "GroceryAndGourmetFood",
+        "DisplayName": "Grocery & Gourmet Food",
+        "Keywords": ["grocery","gourmet food","supermarket","food and beverage","online grocery","food shopping" ]
+    },
+    {
+        "SearchIndex": "Handmade",
+        "DisplayName": "Handmade",
+        "Keywords": ["Handcrafted","Artisan made","Unique handmade gifts","Bespoke","Custom crafted","Homemade","Hand-assembled","Original design"]
+    },
+    {
+        "SearchIndex": "HealthPersonalCare",
+        "DisplayName": "Health, Household & Baby Care",
+        "Keywords": ["health and wellness","personal care","health products","fitness","diet","nutrition"]
+    },
+    {
+        "SearchIndex": "HomeAndKitchen",
+        "DisplayName": "Home & Kitchen",
+        "Keywords": ["home goods", "kitchen essentials", "housewares", "home appliances", "kitchen gadgets", "home decor"]
+    },
+    {
+        "SearchIndex": "Industrial",
+        "DisplayName": "Industrial & Scientific",
+        "Keywords": ["Industrial manufacturing","Industrial goods","Capital goods industry","Industrial products","OEM (Original Equipment Manufacturer)","Manufacturing","Supply chain and manufacturing","Equipment"]
+    },
+    {
+        "SearchIndex": "Jewelry",
+        "DisplayName": "Jewelry",
+        "Keywords": ["Engagement rings","Rings","Necklace","Earrings","Bracelet","Wedding rings","Diamond ring","Gold earrings","Pendant","Pearl necklace"]
+    },
+    {
+        "SearchIndex": "KindleStore",
+        "DisplayName": "Kindle Store",
+        "Keywords": ["Book title","Author name"]
+    },
+    {
+        "SearchIndex": "LocalServices",
+        "DisplayName": "Home & Business Services",
+        "Keywords": ["Plumbing","Landscaping","Dentist","Emergency","Near me"]
+    },
+    {
+        "SearchIndex": "Luggage",
+        "DisplayName": "Luggage & Travel Gear",
+        "Keywords": ["suitcase","carry on luggage","luggage sets","suitcases","travel bag","luggage bags","packing cubes","garment bag","kids luggage" ]
+    },
+    {
+        "SearchIndex": "LuxuryBeauty",
+        "DisplayName": "Luxury Beauty",
+        "Keywords": ["Luxury cosmetics","Premium skincare","High-end makeup","Designer beauty products","Exclusive beauty consultation"]
+    },
+    {
+        "SearchIndex": "Magazines",
+        "DisplayName": "Magazine Subscriptions",
+        "Keywords": ["Periodicals","Serials","Digital magazines","Zinio", "PressReader"]
+    },
+    {
+        "SearchIndex": "MobileAndAccessories",
+        "DisplayName": "Cell Phones & Accessories",
+        "Keywords": ["Mobile phones","Cases","Chargers and cables","Headphones and audio","Screen protectors","Portable power","Other accessories"]
+    },
+    {
+        "SearchIndex": "MobileApps",
+        "DisplayName": "Apps & Games",
+        "Keywords": ["photo editor","puzzle game","task manager","photo filter","brain training game","daily to-do list","Spotify", "Apple Music","free photo editor with filters","puzzle game for kids","to-do list app with reminder","learn Spanish","edit photos","track expenses"]
+    },
+    {
+        "SearchIndex": "MoviesAndTV",
+        "DisplayName": "Movies & TV",
+        "Keywords": ["TMDB","IMDB","horror","comedy"]
+    },
+    {
+        "SearchIndex": "Music",
+        "DisplayName": "CDs & Vinyl",
+        "Keywords": ["Pop", "hip-hop", "electronic dance music (EDM)", "country", "rock", "classical","Jazz", "R&B", "alternative", "folk", "funk", "reggae","Spotify", "Apple Music", "Tidal", "YouTube Music", "Amazon Music","Music festivals", "concert tickets", "concert dates" ]
+    },
+    {
+        "SearchIndex": "MusicalInstruments",
+        "DisplayName": "Musical Instruments",
+        "Keywords": ["Strings","Woodwinds","Brass","Percussion","Keyboard","Electronic"]
+    },
+    {
+        "SearchIndex": "OfficeProducts",
+        "DisplayName": "Office Products",
+        "Keywords": ["Office supplies","Desk accessories","Manila folders","Binder", "clips","Office equipment","Pens", "pencils","Paper", "notebooks","Staplers","Shredders","Laminators","Filing cabinets","Office furniture"]
+    },
+    {
+        "SearchIndex": "PetSupplies",
+        "DisplayName": "Pet Supplies",
+        "Keywords": ["Dog Beds","Pet store","Pet food","Pet toys","Pet accessories","Cat supplies","Dog supplies"]
+    },
+    {
+        "SearchIndex": "Photo",
+        "DisplayName": "Camera & Photo",
+        "Keywords": ["People","Animals","golden retriever", "sunset", "field","car","hat","flower","sunrise","golden hour","night","summer","winter","fall","wedding","graduation","birthday","beach","mountains","park", "vacation","party","landscape photography", "joyful","peaceful","dramatic"]
+    },
+    {
+        "SearchIndex": "Shoes",
+        "DisplayName": "Shoes",
+        "Keywords": ["footwear", "sneakers", "boots", "sandals", "heels", "slippers"]
+    },
+    {
+        "SearchIndex": "Software",
+        "DisplayName": "Software",
+        "Keywords": ["project management software","accounting software for small business","photo editing software","video editor for pc","document management system","data recovery software","antivirus software"]
+    },
+    {
+        "SearchIndex": "SportsAndOutdoors",
+        "DisplayName": "Sports & Outdoors",
+        "Keywords": ["Soccer", "basketball", "baseball", "football", "hockey", "tennis", "golf","Cycling", "running", "swimming", "boxing", "martial arts","skateboarding", "surfing", "rock climbing", "parkour"]
+    },
+    {
+        "SearchIndex": "ToolsAndHomeImprovement",
+        "DisplayName": "Tools & Home Improvement",
+        "Keywords": ["home remodel", "house renovation","home repair services","handyman near me","home addition contractors","home improvement trends","kitchen renovation near me","bathroom remodel cost","basement finishing","deck and patio Installation","kitchen backsplash ideas","drywall patching and repair",  "TV mounting service","cabinet installation","gutter cleaning near me"]
+    },
+    {
+        "SearchIndex": "ToysAndGames",
+        "DisplayName": "Toys & Games",
+        "Keywords": ["toys","games","board games","video games"]
+    },
+    {
+        "SearchIndex": "VHS",
+        "DisplayName": "VHS",
+        "Keywords": ["Horror","comedy", "drama", "sci-fi","Family","home movie","Western","Instructional","TV show", "broadcast","Music video"]
+    },
+    {
+        "SearchIndex": "VideoGames",
+        "DisplayName": "Video Games",
+        "Keywords": ["action","role-playing","strategy","sports","adventure","PlayStation 5","Xbox Series X","PC","Nintendo Switch"]
+    },
+    {
+        "SearchIndex": "Watches",
+        "DisplayName": "Watches",
+        "Keywords": ["watches","luxury watches","used watches","new watches","vintage watches","watch sale","best watches"]
+    }
+]
