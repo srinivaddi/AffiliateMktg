@@ -36,3 +36,7 @@ async def generate_link_post_blog_manual_tool(searchInput: SearchInput):
             "success": False,
             "content": f"Amazon Affiliate marketing links NOT Generated and Posted : {e}",
         }
+
+
+if __name__ == "__main__":
+    mcp_server.run()

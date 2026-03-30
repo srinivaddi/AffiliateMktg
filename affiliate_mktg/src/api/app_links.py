@@ -2,6 +2,11 @@ import json
 import uuid
 from datetime import date
 
+from affiliate_mktg.src.utils.logging_setup import setup_logging, get_logger
+
+setup_logging()
+logger = get_logger(__name__)
+
 from starlette.applications import Starlette
 from starlette.routing import Route
 from starlette.responses import JSONResponse, PlainTextResponse
@@ -19,13 +24,9 @@ from affiliate_mktg.src.mcp.mcp_wrapper import MCPToolInvoker
 from affiliate_mktg.src.utils.json_response import PrettyJSONResponse, GetJSONResponseData
 from affiliate_mktg.src.core.models import SearchInput
 from affiliate_mktg.src.core.enums import AvailabilityType
-from affiliate_mktg.src.utils.logging_setup import setup_logging, get_logger
 from affiliate_mktg.src.config.loader import get_starlette_config
 
-setup_logging()
-logger = get_logger(__name__)
 configValues = get_starlette_config()
-
 
 async def ensure_session_cookie(request: Request, call_next):
     session = request.session

@@ -3,7 +3,7 @@ from logging.config import dictConfig
 
 LOGGING_CONFIG = {
     "version": 1,
-    "disable_existing_loggers": False,
+    "disable_existing_loggers": True,
     "formatters": {
         "default": {
             "format": "[%(asctime)s] [%(levelname)s] %(name)s: %(message)s",
@@ -13,6 +13,7 @@ LOGGING_CONFIG = {
         "console": {
             "class": "logging.StreamHandler",
             "formatter": "default",
+            "stream": "ext://sys.stderr",  # ✅ REQUIRED FOR MCP
         },
         "file": {
             "class": "logging.FileHandler",
